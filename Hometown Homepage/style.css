@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-image: url(./Assets/benue\ landscape.jpg);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 0%;
+    color: rgb(235, 222, 228);
+    padding: 6px;
+}
+
+h1{
+    background: rgb(235, 117, 7);
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+h2{
+    background-color: rgb(47, 0, 255);
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    height: 20%;
+}
+
+.container1{
+    background: rgba(128, 128, 128, 0.363);
+    margin-top: 0px;
+    overflow: hidden;
+
+}
+
+#Activities{
+    margin: 10px auto;
+    width: auto;
+
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Text1{
+    font-weight: bold;
+    width: 250px;
+
+}
+
+.image{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+
+}
+
+.Text2{
+    width: 350px;
+    
+}
+
+.Body1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    height: 400px;
+
+}
+
+.container3{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    background: #87CEFA  ;
+    color: black;
+    padding: 20px 10px;
+    border-radius: 30px;
+    margin: 50px auto;
+    width: 500px;
+    height: 250px;
+    box-shadow: 10px 10px grey;
+}
+
+.guide{
+    border-radius: 20px;
+    
+}
+
+.Text-style{
+    font-style: italic;
+    
+}
+
+#bio{
+    padding: 30px;
+}
+
+
+
+
+
